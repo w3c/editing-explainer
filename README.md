@@ -6,7 +6,7 @@ Welcome to the GitHub repository of the Web Editing Working Group
 mission is to gather and incubate emerging ideas as they pertain 
 to rich text editor development.
 
-Details can be found in the [Web Editing Working Group Charter](https://www.w3.org/2021/06/web-editing-wg-charter.html).
+Details can be found in the [Web Editing Working Group Charter](https://www.w3.org/2023/09/webediting-charter-2023.html).
 
 ## Actively developed ideas/specs
 
