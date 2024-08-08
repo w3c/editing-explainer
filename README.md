@@ -38,6 +38,10 @@ Details can be found in the [Web Editing Working Group Charter](https://www.w3.o
 ## Backlog <sup id="backlogdRef">[2](#backlogdefFootnote)</sup>
 
 * [Selection API](https://w3c.github.io/selection-api/)
+  <a href="https://github.com/w3c/selection-api/labels/agenda+">
+      ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/selection-api?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
+    </a>
+
 
 ## Archive <sup id="archivedRef">[3](#archivedFootnote)</sup>
 
