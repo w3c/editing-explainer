@@ -18,10 +18,6 @@ Details can be found in the [Web Editing Working Group Charter](https://www.w3.o
     <a href="https://github.com/w3c/input-events/labels/agenda+">
       ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/input-events?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
     </a>
-* [Content Editable Disabled](https://w3c.github.io/editing/docs/contentEditableDisabled/) ([in this Repo](docs/contentEditableDisabled)) 
-    <a href="https://github.com/w3c/editing/labels/agenda+">
-      ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/editing?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
-    </a>
 * [Virtual Keyboard API](https://www.w3.org/TR/virtual-keyboard/) ([Github Repo](https://github.com/w3c/virtual-keyboard/))
     <a href="https://github.com/w3c/virtual-keyboard/labels/agenda+">
       ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/virtual-keyboard?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
@@ -34,6 +30,9 @@ Details can be found in the [Web Editing Working Group Charter](https://www.w3.o
   <a href="https://github.com/w3c/selection-api/labels/agenda+">
       ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/selection-api?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
     </a>
+* Others (in this repository) <a href="https://github.com/w3c/editing/labels/agenda+">
+  ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/editing?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
+  </a>
 
 ## Potential deliveries <sup id="potentialRef">[2](#potentialdefFootnote)</sup>
 
@@ -42,6 +41,7 @@ Details can be found in the [Web Editing Working Group Charter](https://www.w3.o
 ## Archived <sup id="archivedRef">[3](#archivedFootnote)</sup>
 
 * [Content Editable](http://w3c.github.io/contenteditable/) ([Github Repo](https://github.com/w3c/contenteditable/))
+* [Content Editable Disabled](https://w3c.github.io/editing/docs/contentEditableDisabled/) ([in this Repo](docs/contentEditableDisabled)) 
 
 ## Graduated <sup id="graddedRef">[1](#graddefFootnote)</sup>
 
