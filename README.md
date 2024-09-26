@@ -30,23 +30,23 @@ Details can be found in the [Web Editing Working Group Charter](https://www.w3.o
     <a href="https://github.com/w3c/edit-context/labels/agenda+">
       ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/edit-context?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
     </a>
+* [Selection API](https://w3c.github.io/selection-api/) ([Github Repo](https://github.com/w3c/selection-api/))
+  <a href="https://github.com/w3c/selection-api/labels/agenda+">
+      ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/selection-api?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
+    </a>
+
+## Potential deliveries <sup id="potentialRef">[2](#potentialdefFootnote)</sup>
+
+* [execCommand](http://w3c.github.io/editing/docs/execCommand/) ([Github Repo](https://github.com/w3c/execCommand/))
+
+## Archived <sup id="archivedRef">[3](#archivedFootnote)</sup>
+
+* [Content Editable](http://w3c.github.io/contenteditable/) ([Github Repo](https://github.com/w3c/contenteditable/))
 
 ## Graduated <sup id="graddedRef">[1](#graddefFootnote)</sup>
 
 * [Highlight API](https://drafts.csswg.org/css-highlight-api-1/)
 
-## Backlog <sup id="backlogdRef">[2](#backlogdefFootnote)</sup>
-
-* [Selection API](https://w3c.github.io/selection-api/)
-  <a href="https://github.com/w3c/selection-api/labels/agenda+">
-      ![GitHub open Agenda+ labeled issues and PRs](https://img.shields.io/github/issues-search/w3c/selection-api?query=is%3Aopen%20label%3Aagenda%2B&label=agenda%2B)
-    </a>
-
-
-## Archive <sup id="archivedRef">[3](#archivedFootnote)</sup>
-
-* [Content Editable True](http://w3c.github.io/editing/docs/contentEditableTrue/)
-* [execCommand](http://w3c.github.io/editing/docs/execCommand/)
 
 ## Process
 
@@ -125,6 +125,6 @@ Previously, meeting notes were archived here:
 
 <b id="graddefFootnote">1 </b>Proposals that resulted in being sent to the appropriate WG as a recommendation to be specced.[↩](#graddedRef)
 
-<b id="backlogdefFootnote">2 </b>Proposals that we haven't gotten to discussing yet.[↩](#backlogdRef)
+<b id="potentialdefFootnote">2 </b>Proposals that we might work on if the time permits it.[↩](#potentialRef)
 
-<b id="archivedFootnote">3 </b>Anything that have been discussed but the proposal got rejected for some reason. Or any other doc that is no longer relevant.[↩](#archivedRef)
+<b id="archivedFootnote">3 </b>Anything that has been discussed but the proposal got rejected or paused for some reason. Or any other doc that is currently not relevant.[↩](#archivedRef)
