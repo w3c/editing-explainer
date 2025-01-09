@@ -40,7 +40,7 @@ Details can be found in the [Web Editing Working Group Charter](https://www.w3.o
 
 ## Archived <sup id="archivedRef">[3](#archivedFootnote)</sup>
 
-* [Content Editable](http://w3c.github.io/contenteditable/) ([Github Repo](https://github.com/w3c/contenteditable/))
+* [Content Editable](http://w3c.github.io/contentEditable/) ([Github Repo](https://github.com/w3c/contentEditable/))
 * [Content Editable Disabled](https://w3c.github.io/editing/docs/contentEditableDisabled/) ([in this Repo](docs/contentEditableDisabled)) 
 
 ## Graduated <sup id="graddedRef">[1](#graddefFootnote)</sup>
